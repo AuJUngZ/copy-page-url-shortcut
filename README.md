@@ -4,7 +4,7 @@ A Chrome extension to quickly copy the current page URL using a keyboard shortcu
 
 ## Features
 
-- Copy the current tab's URL to clipboard with a shortcut (`Ctrl+Shift+Y` or `Cmd+Shift+Y` on Mac).
+- Copy the current tab's URL to clipboard with a shortcut (`Ctrl+Shift+C` on windows or `Cmd+Shift+C` on Mac).
 - Snackbar notification appears at your chosen screen position.
 - Modern, Arc-style notification design.
 - Simple popup UI for configuring notification position.
